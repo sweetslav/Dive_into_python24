@@ -19,6 +19,7 @@ def my_get(my_dict, key, default=None) -> dict:
     return result
 
 
+
 if __name__ == '__main__':
     test_dict = {'a': 1, 'b': 2, 'c': 3}
     print(my_get(test_dict, key='t', default='Invalid key, try again'))

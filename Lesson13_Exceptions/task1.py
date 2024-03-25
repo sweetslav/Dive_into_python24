@@ -20,5 +20,9 @@ def get_num() -> int | float:
     return n
 
 
+
+
+
+
 if __name__ == '__main__':
     print(get_num())
