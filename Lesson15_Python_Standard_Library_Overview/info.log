@@ -1,0 +1,4 @@
+INFO:__main__:{'args': (1, 2, 3, 4, 5, 'sadsdsd'), 'pupa': 'lupa', 'result': 1}
+INFO:__main__:{'args': (1, 2, 3, 4, 5, 'sadsdsd'), 'pupa': 'lupa', 'result': 1}
+INFO     - 2024-03-25 13:37:11,490. Функция - get_all(), аргументы: {'args': (1, 2, 3, 4, 5, 'sadsdsd'), 'pupa': 'lupa', 'result': 1}, результат: 1
+INFO     - 2024-03-25 13:37:32,908. Функция - get_all(), аргументы: {'args': (1, 2, 3, 4, 5, 'sadsdsd'), 'pupa': 'lupa', 'result': 1}, результат: 1
